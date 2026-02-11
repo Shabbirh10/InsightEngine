@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+chromadb
+langchain
+langchain-google-genai
+pydantic-settings
+pypdf
+streamlit
+requests
+tenacity
