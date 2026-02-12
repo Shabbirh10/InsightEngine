@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # InsightEngine: Knowledge Retreival Assistant
 
 A "Research Assistant" platform leveraging Advanced RAG and Multimodal AI.
@@ -71,4 +70,4 @@ Need to summarize a complex topic for a blog? Or critique your own writing style
 - [ ] GitHub Actions for automated RAG evaluation (using Ragas).
 
 ---
-*Built with logic and a bit of magic by Shabbir Hardwarewala.*
+*Built by Shabbir Hardwarewala.*
