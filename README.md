@@ -2,6 +2,12 @@
 
 A "Research Assistant" platform leveraging Advanced RAG and Multimodal AI.
 
+Screenshots
+<img width="1466" height="734" alt="Screenshot 2026-02-12 at 12 44 27 PM" src="https://github.com/user-attachments/assets/ffd1174f-f748-4897-aa0d-86eabd670868" />
+
+<img width="1466" height="734" alt="Screenshot 2026-02-12 at 12 48 59 PM" src="https://github.com/user-attachments/assets/e7615dd5-ca56-4e45-a30d-ae8b3e73d85d" />
+
+
 ## System Architecture
 
 ```mermaid
