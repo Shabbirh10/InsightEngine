@@ -46,8 +46,8 @@ Need to summarize a complex topic for a blog? Or critique your own writing style
 
 1.  **Clone the Repo**
     ```bash
-    git clone https://github.com/Shabbirh10/knowledge-platform.git
-    cd knowledge-platform
+    git clone https://github.com/Shabbirh10/InsightEngine.git
+    cd InsightEngine
     ```
 
 2.  **Environment Setup**
